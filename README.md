@@ -1,0 +1,2 @@
+# ReadQrCode
+Created with CodeSandbox
